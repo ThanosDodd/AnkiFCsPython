@@ -23,4 +23,7 @@ They are:
 5. For those like me, you can finish everything off by adding the coordinates to close all three windows on completion of the task.
 </br>
 </br>
+You must have the script open on the left side when you run it so it will go under the Anki window (the first command of the script is to select this window) **OR** create a batch file to run it from the command line.
+</br>
+</br>
 The script creates 2 flashcards per word. One with word/audio => picture and the reverse. If there is no audio file, the script runs normally.
